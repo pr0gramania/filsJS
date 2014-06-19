@@ -3,6 +3,8 @@ filsJS
 
 JavaScript for sort, filter, edit, table, string, change font, colour in HTML
 
+Demo https://github.com/pr0gramania/filsJS/blob/master/demo.html
+
 The Program fils.js designed for embedding in HTML with table, 
 
 created by MS Word (Save as... Web page)
