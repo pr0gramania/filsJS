@@ -3,18 +3,7 @@ filsJS
 
 JavaScript for sort, filter, edit, table, string, change font, colour in HTML
 
-#The Unchancy attempts to show not source code:
-
-https://github.com/pr0gramania/filsJS/blob/master/demo.html
-
-"https://github.com/pr0gramania/filsJS/blob/master/demo.html"
-
-(https://github.com/pr0gramania/filsJS/blob/master/demo.html)
-
-[https://github.com/pr0gramania/filsJS/blob/master/demo.html]
-
-#Here is as it is necessary:
-
+#DEMO:
 http://programania.com/j/demo.html
 
 The Program fils.js designed for embedding in HTML with table, 
